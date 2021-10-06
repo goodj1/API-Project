@@ -12,7 +12,7 @@ run test: npm run test
 ../package.json : contains all dependencies.
 
 <!-- General Info-->
-***This project makes a get request to multiple APIs checks the url protocols of the web's url,
+***This project makes a get request to multiple APIs and checks the url protocols;
 if the url protocol is valid: the url, status code, contentLength and dateAndTime will be
 printed in the console.
 
