@@ -12,6 +12,9 @@ run test: npm run test
 ../package.json : contains all dependencies.
 
 <!-- General Info-->
+***This project makes a get request to multiple APIs checks the url protocols of the web's url,
+if the url protocol is valid: the url, status code, contentLength and dateAndTime will be
+printed in the console.
 
 This project is compatible with node v14.18.0 or greater.
 Line 55-60 can be commented out when running tests, to remove unnecessary logs in terminal.
